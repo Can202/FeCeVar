@@ -1,7 +1,7 @@
 extends Node
 
-var sentence = "Ĉevalo"
+var sentence = "Besto"
 var description = ""
-var translate = "Caballo"
+var translate = "Animal"
 var translate_description = ""
 var color = "red"

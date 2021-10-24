@@ -25,6 +25,8 @@ func _ready():
 			$back.modulate = Color( .2, 1, .2, 1 )
 		"blue":
 			$back.modulate = Color( .2, .2, 1, 1 )
+		"orange":
+			$back.modulate = Color( 1, .5, .2, 1 )
 	
 	$principal.text = Original_Name
 	$desc.text = Original_Desc

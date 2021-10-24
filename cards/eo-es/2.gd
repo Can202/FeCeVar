@@ -1,7 +1,7 @@
 extends Node
 
 var sentence = "Dormi"
-var description = "Verbo"
+var description = "Dormas, Dormis, Dormos"
 var translate = "Dormir"
-var translate_description = "Verbo"
-var color = "green"
+var translate_description = ""
+var color = "orange"

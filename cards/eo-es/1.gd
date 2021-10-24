@@ -1,7 +1,7 @@
 extends Node
 
 var sentence = "Manĝi"
-var description = "Verbo"
+var description = "Manĝas, Manĝos, manĝis, manĝu"
 var translate = "Comer"
-var translate_description = "Verbo"
-var color = "green"
+var translate_description = ""
+var color = "orange"

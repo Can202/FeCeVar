@@ -1,3 +1,3 @@
 extends Node
 
-var content = 10
+var content = 20
